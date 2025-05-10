@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1734620927 source:c:\users\elias\desktop\ultimo\atletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Atletas.h"
+
+1734620521 c:\users\elias\desktop\ultimo\atletas.h
+
+1734621073 source:c:\users\elias\desktop\ultimo\competencia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Competencia.h"
+
+1734620521 c:\users\elias\desktop\ultimo\competencia.h
+	"Atletas.h"
+
+1734705744 source:c:\users\elias\desktop\ultimo\liga.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Liga.h"
+
+1734705685 c:\users\elias\desktop\ultimo\liga.h
+	"Competencia.h"
+
+1734705650 source:c:\users\elias\desktop\ultimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Liga.h"
+
